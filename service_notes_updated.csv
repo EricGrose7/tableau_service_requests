@@ -1,0 +1,101 @@
+Request ID,Request Type,Customer ID,Technician ID,Issue Identified,Service Technician Notes,Resolution Status,Start Time,End Time
+1,Hardware,1001,1,PC won't turn on,Replaced faulty power supply,Unresolved,5/7/2023 9:00,5/7/2023 10:30
+2,Software,1002,2,Program crashes on startup,Updated to latest version,Unresolved,5/7/2023 10:00,5/7/2023 11:00
+3,Hardware,1003,3,Printer not printing,Replaced ink cartridge,Unresolved,5/7/2023 11:00,5/7/2023 12:00
+4,Software,1004,4,Email not syncing,Reset email account password,Unresolved,5/7/2023 12:00,5/7/2023 13:00
+5,Hardware,1005,5,Slow computer,Ran disk cleanup and removed malware,Pending,5/7/2023 13:00,5/7/2023 14:30
+6,Hardware,1006,1,Blue screen of death,Replaced faulty RAM,Unresolved,5/7/2023 14:00,5/7/2023 15:30
+7,Software,1007,2,Software not responding,Reinstalled software,Resolved,5/7/2023 15:00,5/7/2023 16:00
+8,Hardware,1008,3,Monitor not displaying,Replaced faulty cable,Resolved,5/7/2023 16:00,5/7/2023 17:00
+9,Software,1009,4,Keyboard not working,Replaced faulty keyboard,Resolved,5/7/2023 17:00,5/7/2023 18:00
+10,Hardware,1010,5,Internet connection issues,Reset modem and router,Resolved,5/7/2023 18:00,5/7/2023 19:30
+11,Software,1011,1,Application not launching,Cleared app cache,Unresolved,5/7/2023 19:00,5/7/2023 20:00
+12,Hardware,1012,2,No sound from speakers,Replaced faulty speakers,Pending,5/7/2023 20:00,5/7/2023 21:00
+13,Software,1013,3,File not opening,Recovered file from backup,Pending,5/7/2023 21:00,5/7/2023 22:00
+14,Hardware,1014,4,External hard drive not detected,Replaced faulty cable,Unresolved,5/7/2023 22:00,5/7/2023 23:00
+15,Software,1015,5,Mouse not working,Replaced faulty mouse,Resolved,5/7/2023 23:00,5/8/2023 23:30
+16,Hardware,1016,1,Printer paper jam,Removed jammed paper and cleaned printer,Unresolved,5/8/2023 9:00,5/8/2023 10:30
+17,Software,1017,2,Software installation failed,Reinstalled with admin privileges,Pending,5/8/2023 10:00,5/8/2023 11:00
+18,Hardware,1018,3,No display on laptop screen,Replaced faulty screen,Unresolved,5/8/2023 11:00,5/8/2023 12:00
+19,Software,1019,4,Slow internet,Reset network settings,Unresolved,5/8/2023 12:00,5/8/2023 13:00
+20,Hardware,1020,5,Hard drive failure,Replaced faulty hard drive and restored data from backup,Unresolved,5/8/2023 13:00,5/8/2023 14:30
+21,Hardware,1021,1,Network connectivity issues,Diagnosed and resolved network connectivity issue,Pending,5/8/2023 14:00,5/8/2023 15:30
+22,Software,1022,2,Email account hacked,Reset email account password and enabled two-factor authentication,Pending,5/8/2023 15:00,5/8/2023 16:00
+23,Hardware,1023,3,Computer overheating,Cleaned dust from fans and applied new thermal paste,Pending,5/8/2023 16:00,5/8/2023 17:00
+24,Software,1024,4,Printer driver not installing,Downloaded and installed updated driver,Unresolved,5/8/2023 17:00,5/8/2023 18:00
+25,Hardware,1025,5,Graphics card failure,Replaced faulty graphics card,Pending,5/8/2023 18:00,5/8/2023 19:30
+26,Software,1026,1,Emails not sending,Reset email account password and updated outgoing mail server settings,Unresolved,5/8/2023 19:00,5/8/2023 20:00
+27,Hardware,1027,2,CD/DVD drive not working,Replaced faulty drive,Pending,5/8/2023 20:00,5/8/2023 21:00
+28,Software,1028,3,Application freezes,Updated to latest version and cleared app cache,Resolved,5/8/2023 21:00,5/8/2023 22:00
+29,Hardware,1029,4,Keyboard keys not functioning,Replaced faulty keyboard,Pending,5/8/2023 22:00,5/8/2023 23:00
+30,Software,1030,5,Application crashing,Uninstalled and reinstalled the application,Pending,5/10/2023 14:00,5/10/2023 15:00
+31,Hardware,1031,1,Blue screen error,Updated drivers and performed system restore,Pending,5/10/2023 15:00,5/10/2023 17:00
+32,Software,1032,2,Computer infected with virus,"Scanned and removed viruses, installed antivirus software",Resolved,5/10/2023 17:00,5/10/2023 19:00
+33,Hardware,1033,3,Mouse not responding,Replaced faulty mouse,Unresolved,5/10/2023 19:00,5/10/2023 20:00
+34,Software,1034,4,Data backup issue,Configured automatic backup and verified data,Unresolved,5/10/2023 20:00,5/10/2023 21:00
+35,Hardware,1035,5,No power to desktop,Replaced faulty power supply,Pending,5/10/2023 21:00,5/10/2023 22:30
+36,Hardware,1036,1,Network printer not printing,Reset network settings and reinstalled printer driver,Resolved,5/10/2023 22:00,5/10/2023 23:30
+37,Software,1037,2,Internet browser not opening,Reset browser settings and cleared cache,Resolved,5/11/2023 8:00,5/11/2023 9:00
+38,Hardware,1038,3,Computer won't boot,Replaced faulty motherboard and power supply,Pending,5/11/2023 9:00,5/11/2023 11:00
+39,Software,1039,4,Emails not syncing,Reset email account settings and updated password,Resolved,5/11/2023 11:00,5/11/2023 12:00
+40,Hardware,1040,5,External hard drive not recognized,Updated drivers and tested on another computer,Resolved,5/11/2023 12:00,5/11/2023 13:30
+41,Hardware,1041,1,Keyboard typing wrong characters,Replaced faulty keyboard,Pending,5/11/2023 13:00,5/11/2023 14:00
+42,Software,1042,2,Application not launching,Reinstalled with latest version,Resolved,5/11/2023 14:00,5/11/2023 15:00
+43,Hardware,1043,3,USB device not recognized,Updated drivers and tested on another computer,Pending,5/11/2023 15:00,5/11/2023 16:30
+44,Software,1044,5,Slow computer performance,Cleaned registry and removed unnecessary programs,Resolved,5/11/2023 16:00,5/11/2023 18:00
+45,Hardware,1045,1,Computer fan noise,Replaced faulty fan,Resolved,5/11/2023 17:00,5/11/2023 18:30
+46,Software,1046,2,Software compatibility issue,Installed necessary updates and patches,Resolved,5/11/2023 18:00,5/11/2023 19:00
+47,Hardware,1047,3,CD/DVD drive not working,Replaced faulty drive,Resolved,5/11/2023 19:00,5/11/2023 20:00
+48,Software,1048,4,Printer driver not working,Reinstalled with latest version,Pending,5/11/2023 20:00,5/11/2023 21:00
+49,Hardware,1049,5,Computer overheating,Cleaned internal components and applied thermal paste,Pending,5/11/2023 21:00,5/11/2023 23:00
+50,Hardware,1050,1,Blue screen error,Performed system restore and updated drivers,Resolved,5/12/2023 8:00,5/12/2023 10:00
+51,Software,1051,2,Software not responding,Uninstalled and reinstalled with latest version,Resolved,5/12/2023 9:00,5/12/2023 11:00
+52,Hardware,1052,3,Wireless network issue,Reset network settings and reconfigured router,Resolved,5/12/2023 10:00,5/12/2023 12:00
+53,Software,1053,4,Keyboard shortcuts not working,Reset keyboard settings and updated drivers,Resolved,5/12/2023 11:00,5/12/2023 12:00
+54,Hardware,1054,5,No sound from speakers,Replaced faulty speakers,Resolved,5/12/2023 12:00,5/12/2023 13:00
+55,Hardware,1055,1,Computer won't turn on,Replaced faulty power supply,Resolved,5/12/2023 13:00,5/12/2023 15:00
+56,Software,1056,2,Printer not printing in color,Updated printer driver and cleaned printhead,Resolved,5/12/2023 14:00,5/12/2023 15:30
+57,Hardware,1057,3,Touchpad not working,Updated touchpad driver and checked settings,Resolved,5/12/2023 15:00,5/12/2023 16:00
+58,Software,1058,4,Outlook not opening,Repaired Outlook installation and updated to latest version,Resolved,5/12/2023 16:00,5/12/2023 17:00
+59,Hardware,1059,5,No display on monitor,Replaced faulty graphics card,Resolved,5/12/2023 17:00,5/12/2023 19:00
+60,Software,1060,1,Software license expired,Renewed software license,Resolved,5/12/2023 18:00,5/12/2023 19:00
+61,Hardware,1061,2,Hard drive failure,Replaced faulty hard drive and performed system restore,Resolved,5/12/2023 19:00,5/12/2023 21:00
+62,Software,1062,3,Software not responding,Uninstalled and reinstalled with latest version,Resolved,5/12/2023 20:00,5/12/2023 21:00
+63,Hardware,1063,4,Computer freezing,Cleaned registry and updated drivers,Resolved,5/12/2023 21:00,5/12/2023 23:00
+64,Hardware,1064,5,USB device not recognized,Reinstalled USB drivers and checked device settings,Resolved,5/13/2023 8:00,5/13/2023 9:00
+65,Software,1065,1,Emails not syncing,Reset email settings and checked server settings,Resolved,5/13/2023 9:00,5/13/2023 10:00
+66,Hardware,1066,2,Keyboard not working,Replaced faulty keyboard,Resolved,5/13/2023 10:00,5/13/2023 11:00
+67,Software,1067,3,Printer not printing,Restarted print spooler service and updated drivers,Resolved,5/13/2023 11:00,5/13/2023 12:00
+68,Hardware,1068,4,Computer won't boot,Performed system restore and updated drivers,Resolved,5/13/2023 12:00,5/13/2023 14:00
+69,Software,1069,5,Microsoft Office activation issue,Reactivated Microsoft Office and updated to latest version,Resolved,5/13/2023 13:00,5/13/2023 14:00
+70,Hardware,1070,1,No internet connection,Reset network settings and checked router settings,Resolved,5/13/2023 14:00,5/13/2023 16:00
+71,Hardware,1071,2,Computer won't shut down,Performed system restore and updated drivers,Resolved,5/13/2023 15:00,5/13/2023 16:30
+72,Software,1072,3,Software not opening,Repaired software installation and updated to latest version,Resolved,5/13/2023 16:30,5/13/2023 17:30
+73,Hardware,1073,4,Mouse not working,Replaced faulty mouse,Resolved,5/13/2023 17:30,5/13/2023 18:30
+74,Software,1074,5,Unable to print from specific program,Updated program and reconfigured printer settings,Resolved,5/13/2023 18:30,5/13/2023 19:30
+75,Hardware,1075,1,No sound from speakers,Reinstalled sound drivers and checked speaker settings,Resolved,5/13/2023 19:30,5/13/2023 20:30
+76,Hardware,1076,2,CD/DVD drive not working,Replaced faulty drive,Resolved,5/13/2023 20:30,5/13/2023 22:00
+77,Software,1077,3,Software not responding,Uninstalled and reinstalled with latest version,Resolved,5/13/2023 22:00,5/13/2023 23:00
+78,Hardware,1078,4,Computer won't turn on,Replaced faulty power supply unit,Resolved,5/14/2023 8:00,5/14/2023 10:00
+79,Software,1079,5,Unable to open PDF files,Installed latest version of Adobe Reader,Resolved,5/14/2023 9:00,5/14/2023 10:00
+80,Hardware,1080,1,Slow computer performance,Cleaned registry and removed unnecessary programs,Resolved,5/14/2023 10:00,5/14/2023 12:00
+81,Software,1081,2,Unable to send emails,Reset email settings and checked server settings,Resolved,5/14/2023 11:00,5/14/2023 12:00
+82,Hardware,1082,3,No display on monitor,Replaced faulty graphics card,Resolved,5/14/2023 12:00,5/14/2023 14:00
+83,Software,1083,4,Unable to connect to WiFi,Reset network settings and checked router settings,Resolved,5/14/2023 13:00,5/14/2023 14:30
+84,Hardware,1084,5,Computer freezing,Cleaned registry and updated drivers,Resolved,5/14/2023 14:30,5/14/2023 16:00
+85,Software,1085,1,Software license expired,Renewed software license,Resolved,5/14/2023 15:00,5/14/2023 16:00
+86,Hardware,1086,2,Computer won't boot,Replaced faulty hard drive and reinstalled OS,Resolved,5/14/2023 16:00,5/14/2023 19:00
+87,Software,1087,3,Software crashing,Installed latest updates and reconfigured settings,Resolved,5/14/2023 17:00,5/14/2023 18:00
+88,Hardware,1088,4,Printer not printing,Replaced faulty ink cartridge,Resolved,5/14/2023 18:00,5/14/2023 19:00
+89,Hardware,1089,5,Keyboard not working,Replaced faulty keyboard,Resolved,5/14/2023 19:00,5/14/2023 20:00
+90,Software,1090,1,Software compatibility issues,Installed necessary drivers and reconfigured settings,Resolved,5/15/2023 8:00,5/15/2023 9:00
+91,Hardware,1091,2,Computer won't turn on,Replaced faulty power supply unit,Resolved,5/15/2023 9:00,5/15/2023 10:00
+92,Software,1092,3,Unable to open program,Reinstalled program with latest version,Resolved,5/15/2023 10:00,5/15/2023 11:00
+93,Hardware,1093,4,Computer running hot,Cleaned fans and applied thermal paste,Resolved,5/15/2023 11:00,5/15/2023 12:00
+94,Software,1094,5,Software not responding,Uninstalled and reinstalled with latest version,Resolved,5/15/2023 12:00,5/15/2023 13:00
+95,Hardware,1095,1,No sound from speakers,Reinstalled sound drivers and checked speaker settings,Resolved,5/15/2023 13:00,5/15/2023 14:00
+96,Software,1096,2,Unable to open Excel files,Installed latest version of Microsoft Office,Resolved,5/15/2023 14:00,5/15/2023 15:00
+97,Hardware,1097,3,CD/DVD drive not working,Replaced faulty drive,Resolved,5/15/2023 15:00,5/15/2023 16:30
+98,Software,1098,4,Computer freezing,Cleaned registry and updated drivers,Resolved,5/15/2023 16:30,5/15/2023 18:00
+99,Hardware,1099,5,Mouse not working,Replaced faulty mouse,Resolved,5/15/2023 17:00,5/15/2023 18:00
+100,Software,1100,1,Unable to print,Reinstalled printer driver and reconfigured settings,Resolved,5/15/2023 18:00,5/15/2023 19:00
